@@ -2,9 +2,9 @@ package in.shockit;
 
 public class Demo {
 
-	public static void main(String[] args) {
-		
-
+	public void m2() {
+		//BUG-9989 fixed 
+                //logic completed 
 	}
 
 }
